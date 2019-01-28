@@ -1,0 +1,10 @@
+﻿  Main.cpp
+h:\year 2\games ai\ai multilayer neuron\ai multilayer neuron\main.cpp(9): warning C4101: 'Y': unreferenced local variable
+h:\year 2\games ai\ai multilayer neuron\ai multilayer neuron\main.cpp(10): warning C4101: 'inputSignal': unreferenced local variable
+h:\year 2\games ai\ai multilayer neuron\ai multilayer neuron\main.cpp(9): warning C4101: 'X': unreferenced local variable
+  Neuron.cpp
+  Generating code
+h:\year 2\games ai\ai multilayer neuron\ai multilayer neuron\neuron.cpp(24): warning C4715: 'Neuron::GetWeight': not all control paths return a value
+  All 97 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  AI Multilayer Neuron.vcxproj -> H:\Year 2\Games AI\AI Multilayer Neuron\Release\AI Multilayer Neuron.exe

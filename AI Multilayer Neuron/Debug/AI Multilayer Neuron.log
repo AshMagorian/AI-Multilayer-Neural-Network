@@ -1,0 +1,5 @@
+﻿  Main.cpp
+h:\year 2\games ai\ai multilayer neuron\ai multilayer neuron\main.cpp(9): warning C4101: 'Y': unreferenced local variable
+h:\year 2\games ai\ai multilayer neuron\ai multilayer neuron\main.cpp(10): warning C4101: 'inputSignal': unreferenced local variable
+h:\year 2\games ai\ai multilayer neuron\ai multilayer neuron\main.cpp(9): warning C4101: 'X': unreferenced local variable
+  AI Multilayer Neuron.vcxproj -> H:\Year 2\Games AI\AI Multilayer Neuron\Debug\AI Multilayer Neuron.exe
